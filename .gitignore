@@ -1,2 +1,4 @@
 data/
+models/
+sklearn_learning/models/
 lab-6-nlp/cc.uk.300.bin
